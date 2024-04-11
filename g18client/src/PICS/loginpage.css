@@ -1,0 +1,33 @@
+#root {
+    -fx-background-image: url('backgroundforlogin.jpg');
+    -fx-background-size: cover;
+    -fx-background-position: center;
+}
+
+/* Style for the exit button */
+#exit-button {
+    -fx-background-color: #808080;
+    -fx-text-fill: white; /* Set text color to white for better visibility */
+}
+#exit-button:hover {
+    -fx-background-color: darkred; /* Darker red color on hover */
+}
+
+/* Style for the login button */
+#login-button {
+    -fx-background-color: green;
+    -fx-text-fill: white; /* Set text color to white for better visibility */
+}
+#login-button:hover {
+    -fx-background-color: darkgreen; /* Darker green color on hover */
+}
+
+/* Style for the back button */
+#back-button {
+	-fx-background-color: #808080;
+    -fx-text-fill: white;
+}
+#back-button:hover {
+	-fx-background-color: black;
+    -fx-text-fill: white; /* Darker text color on hover */
+}

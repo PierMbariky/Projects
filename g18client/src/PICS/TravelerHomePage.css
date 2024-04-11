@@ -1,0 +1,76 @@
+#ViewOrderButton{
+    -fx-background-color: #000000; /* Green background color */
+    -fx-text-fill: white; /* White text color */
+    -fx-font-size: 14.0px; /* Font size */
+    -fx-font-weight: bold; /* Font weight */
+    -fx-padding: 8.0px 16.0px; /* Padding */
+    -fx-border-color: transparent; /* Transparent border color */
+    -fx-border-radius: 5.0px; /* Border radius */
+    -fx-background-radius: 5.0px; /* Background radius */
+    -fx-cursor: hand; /* Cursor style */
+}
+
+#ViewOrderButton:hover {
+    -fx-background-color: #5A5A5A; /* Darker green background color on hover */
+}
+#deleteOrderButton {
+    -fx-background-color: #000000; /* Red background color */
+    -fx-text-fill: white; /* White text color */
+    -fx-font-size: 14.0px; /* Font size */
+    -fx-font-weight: bold; /* Font weight */
+    -fx-padding: 8.0px 16.0px; /* Padding */
+    -fx-border-color: transparent; /* Transparent border color */
+    -fx-border-radius: 5.0px; /* Border radius */
+    -fx-background-radius: 5.0px; /* Background radius */
+    -fx-cursor: hand; /* Cursor style */
+}
+
+#deleteOrderButton:hover {
+    -fx-background-color: #5A5A5A; /* Darker red background color on hover */
+}
+#CreateOrderButton {
+    -fx-background-color: #000000; /* Blue background color */
+    -fx-text-fill: white; /* White text color */
+    -fx-font-size: 14.0px; /* Font size */
+    -fx-font-weight: bold; /* Font weight */
+    -fx-padding: 8.0px 16.0px; /* Padding */
+    -fx-border-color: transparent; /* Transparent border color */
+    -fx-border-radius: 5.0px; /* Border radius */
+    -fx-background-radius: 5.0px; /* Background radius */
+    -fx-cursor: hand; /* Cursor style */
+}
+
+#CreateOrderButton:hover {
+    -fx-background-color: #5A5A5A; /* Darker blue background color on hover */
+}
+#logoutButton {
+    -fx-background-color: #e74c3c; /* Orange background color */
+    -fx-text-fill: white; /* White text color */
+    -fx-font-size: 14.0px; /* Font size */
+    -fx-font-weight: bold; /* Font weight */
+    -fx-padding: 8.0px 16.0px; /* Padding */
+    -fx-border-color: transparent; /* Transparent border color */
+    -fx-border-radius: 5.0px; /* Border radius */
+    -fx-background-radius: 5.0px; /* Background radius */
+    -fx-cursor: hand; /* Cursor style */
+}
+
+#logoutButton:hover {
+    -fx-background-color: #c0392b; /* Darker Alizarin Hover Background Color */
+}
+
+#exitButton {
+	-fx-background-color: #e74c3c;
+    -fx-text-fill: white; /* White text color */
+    -fx-font-size: 14.0px; /* Font size */
+    -fx-font-weight: bold; /* Font weight */
+    -fx-padding: 8.0px 16.0px; /* Padding */
+    -fx-border-color: transparent; /* Transparent border color */
+    -fx-border-radius: 5.0px; /* Border radius */
+    -fx-background-radius: 5.0px; /* Background radius */
+    -fx-cursor: hand; /* Cursor style */
+}
+
+#exitButton:hover {
+    -fx-background-color: #c0392b; /* Darker Alizarin Hover Background Color */
+}

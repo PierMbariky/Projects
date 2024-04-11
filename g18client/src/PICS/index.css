@@ -1,0 +1,18 @@
+#confirm-order-button {
+    -fx-background-color: green;
+    -fx-text-fill: white; /* Set text color to white for better visibility */
+}
+
+#confirm-order-button:hover {
+    -fx-background-color: darkgreen; /* Darker green color on hover */
+}
+
+/* Style for the Cancel Order button */
+#cancel-order-button {
+    -fx-background-color: red;
+    -fx-text-fill: white; /* Set text color to white for better visibility */
+}
+
+#cancel-order-button:hover {
+    -fx-background-color: darkred; /* Darker red color on hover */
+}
